@@ -26,6 +26,30 @@ If you look at the bottom of each picture, you will see the row and results of T
 
 As shown in the above images, and especially in the School Summary, we can see that Thomas High School's performance goes from scores in the lower to upper 90s to scores sinking into the upper and mid 60s. This is the difference as drastic as an A to an F-! Thomas High School's performance relative to other schools has plummeted after the fixed analysis. 
 
+<img width="711" alt="Screen Shot 2021-08-01 at 11 26 25 PM" src="https://user-images.githubusercontent.com/86274124/127800623-1c6543e5-5928-41d3-abba-808dfa51df52.png">
+<img width="714" alt="Screen Shot 2021-08-01 at 11 26 31 PM" src="https://user-images.githubusercontent.com/86274124/127800628-9634ca4d-45b4-4165-8ee4-e856bb76a78e.png">
+
+Thomas High School is a Charter School and, as such, affected Charter Schools as opposed to District Schools. We can see from the above that due to the Academic Dishonesty found in Thomas High School that the average reading score in Charter schools dropped from 83.9% to 83.8%; the average passing math score dropped from 93.62% to 93.61%; the average passing reading score dropped from 96.58% to 96.55%; and the overall passing score dropped from 90.43% to 90.39%. While not the largest change, a change was still seen.
+
+----------
+
+<img width="766" alt="Screen Shot 2021-08-01 at 11 33 35 PM" src="https://user-images.githubusercontent.com/86274124/127801112-9bfd3f1c-5add-41d7-9f87-818c9a4dd8f8.png">
+<img width="755" alt="Screen Shot 2021-08-01 at 11 33 41 PM" src="https://user-images.githubusercontent.com/86274124/127801115-21f8f30b-d0e2-4aad-903a-bb4db0f4494d.png">
+
+
+Thomas High School is a Medium Sized score, with a student population in the range of 1000 - 2000 (1635 specifically). Due to the Academic Dishonesty found in Thomas High School, the scores for average math and reading, as well as the percentages of those passing math and reading, and overall percentages, were affected in Medium Sized Schools. Scores for Average Math fell from 83.37% to 83.36%; Scores for Average Readinig fell from 83.87% to 83.86%; Passing Math Percentages fell from 93.59% to 93.58%; Passing Reading Percentages fell from 96.97% to 96.73%; and Overall Percentages fell from 90.62% to 90.55%. While not largely affected, the affects of Academic Dishonesty can be seen in Medium Sized schools for this District Analysis.
+
+----------
+
+<img width="792" alt="Screen Shot 2021-08-01 at 11 39 02 PM" src="https://user-images.githubusercontent.com/86274124/127801418-5e86c273-8a44-4dcf-ba16-10360f644af2.png">
+<img width="781" alt="Screen Shot 2021-08-01 at 11 39 09 PM" src="https://user-images.githubusercontent.com/86274124/127801419-ad425d3b-430c-478c-98d1-5af1f9481877.png">
+
+
+Thomas High School, on average, spent $638 on each one of it's students. This put's Thomas High School in this's analysis' range of $630 - $644. As is shown in other affected measures, the Academic Dishonesty of Thomas High School led to issues in areas of Math and Reading, but only to minor extents, changing at most a fraction of a percent. Regardless, the affects are still shown and felt. This is also felt in the analysis of the math and reading score grades of those in 9th grade Thomas High School. Due to the Academic Dishonesty, they cannot be properly calculated and are thusly displayed as "NaN" to avoid skewing.
+
+<img width="335" alt="Screen Shot 2021-08-01 at 11 43 12 PM" src="https://user-images.githubusercontent.com/86274124/127801657-7e324acb-03c5-4cb1-8c66-3cfceefd0909.png">
+
+
 
     Overview of the school district analysis: Explain the purpose of this analysis.
 
@@ -46,4 +70,6 @@ As shown in the above images, and especially in the School Summary, we can see t
     
     - There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced -
     
-   
+# Summary
+
+The following undertaking was challenging, taxing, and required a lot of time. In the end, 
