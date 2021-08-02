@@ -49,27 +49,10 @@ Thomas High School, on average, spent $638 on each one of it's students. This pu
 
 <img width="335" alt="Screen Shot 2021-08-01 at 11 43 12 PM" src="https://user-images.githubusercontent.com/86274124/127801657-7e324acb-03c5-4cb1-8c66-3cfceefd0909.png">
 
-
-
-    Overview of the school district analysis: Explain the purpose of this analysis.
-
-    Results: Using bulleted lists and images of DataFrames as support, address the following questions.
-    - There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data -
-    
-    
-        How is the district summary affected?
-        How is the school summary affected?
-        How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-        How does replacing the ninth-grade scores affect the following:
-            Math and reading scores by grade
-            Scores by school spending
-            Scores by school size
-            Scores by school type
-
     Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
     
     - There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced -
     
 # Summary
 
-The following undertaking was challenging, taxing, and required a lot of time. In the end, 
+The following undertaking was challenging, taxing, and required a lot of time. In the end, it was found that while changes were found due to the Academic Dishonesty of the Freshmen Class as Thomas High School, they were not exhorbatantly large (for the most part). Changes seen in Overall Percentages compared to all other schools were the most drastic, with grades dropping from percentages in the high 90s to those in the mid 60s, constituting a change from an A+ to an F-. When looking at specifics such as in relation to school size, type, and spending, no large changes were seen due to Thomas High School. While changes were observed, these changes were a fraction(s) of a percent. While this does not excuse the Academic Dishonesty, it is good to know that no drastic skewing was found. Regardless, it is hoped that this Analysis helps the School Board in their next steps towards fixing the errors found and processing proper information.
